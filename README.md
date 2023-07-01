@@ -7,3 +7,4 @@ This repository serves as a collection of various small-scale data analysis proj
 ## Included Projects:
 
 * [Investigating Netflix Movies]: Exploratory analysis of the duration of Netflix movies.
+* [Analyzing NASA Planetary Exploration Budgets in SQL]: Exploratory analysis of NASA budgets data.
