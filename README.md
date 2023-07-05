@@ -7,4 +7,4 @@ This repository serves as a collection of various small-scale data analysis proj
 ## Included Projects:
 
 * [Investigating Netflix Movies (Python)](https://github.com/Nostrand/data-analysis-projects/blob/main/investigating-netflix-movies/notebook.ipynb): Exploratory analysis of the duration of Netflix movies. Project from Datacamp.
-* [Analyzing NASA Planetary Exploration Budgets (SQL)]: Exploratory analysis of NASA budgets data. Webinar from Datacamp.
+* [Analyzing NASA Planetary Exploration Budgets (SQL)](https://github.com/Nostrand/data-analysis-projects/blob/main/analyzing-nasa-planetary-exploration-budgets/notebook.ipynb): Exploratory analysis of NASA budgets data. Webinar from Datacamp.
