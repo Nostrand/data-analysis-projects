@@ -46,13 +46,15 @@ To provide context to the data, we included several dimension tables in our data
 
 Our final data model will follow a snowflake schema. We only have one dimension table that doesn't directly attach to the fact table. This is how our final data model will look.
 
-![Snowflake Schema](images/snowflakeschema.png)
+![Snowflake Schema](images/snowflake-schema.png)
 
 ## Data Preparation and Transformation
 
-Imported all necessary data, renaming each table with "Fact" or "Dim" as needed.
+* Imported all necessary data, renaming each table with "Fact" or "Dim" as needed.
+* Reviewed the loaded tables, to ensure that columns are correctly formatted as text, numbers and dates.
+* Connected the tables in the model view as required for the schema.
+* Wrote multiple DAX measures to use with the visualizations.
 
-Reviewed the loaded tables, to ensure that columns are correctly formatted as text, numbers and dates.
 
 ## HR Analytics Dashboard
 
@@ -110,16 +112,17 @@ The Performance Tracker page provides a comprehensive view of individual employe
 ### Atrittion
 ![Atrittion](images/atrittion.png)
 
-In today's dynamic business landscape, understanding employee attrition has become a critical concern for organizations. Attrition, or employee turnover, refers to the voluntary or involuntary departure of employees from an organization. It encompasses the loss of valuable talent, potential disruption to business operations, and increased costs associated with recruiting and training new employees.
-
 This section of the dashboard aims to provide valuable insights into the factors contributing to attrition within Atlas Labs. By analyzing relevant HR data and employing effective data visualization techniques, we can gain a deeper understanding of attrition patterns, identify key drivers, and explore potential strategies to mitigate turnover.
 
 Analyzing attrition patterns enables organizations to anticipate talent gaps and plan for succession. By identifying critical roles and areas prone to higher turnover, Atlas Labs can proactively recruit and develop talent pipelines to minimize disruption.
 
-According to our dashboard:
-* Sales Representatives in the Sales Department exhibit the highest attrition rate at 39.8%.
-* Recruiters in the HR Department experience an atrittion rate of 37.5%.
-* Data Scientists in the Technology Department have an atrittion rate of 23.8%.
+According to our Dashboard, the roles with highest atrittion per department are:
+
+| Department       | Role                  | Atrittion |
+|------------------|-----------------------|-----------|
+| Sales            | Sales Representatives | 39.8%     |
+| Human Resources  | Recruiters            | 37.5%     |
+| Technology       | Data Scientists       | 23.8%     |
 
 Factors such as travel frequency and overtime requirements demonstrate a notable impact on attrition rates. Additionally, employees with less than 6 years of tenure exhibit higher attrition rates.
 
