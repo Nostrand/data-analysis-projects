@@ -4,8 +4,31 @@
 
 This repository serves as a collection of various small-scale data analysis projects. Each project focuses on distinct datasets and explores various aspects of data analysis using different tools and techniques, including the R programming language, Python, SQL and Power BI.
 
-## Included Projects:
+## Included Projects
 
-* [Investigating Netflix Movies (Python)](https://github.com/Nostrand/data-analysis-projects/blob/main/investigating-netflix-movies/notebook.ipynb): Exploratory analysis of the duration of Netflix movies. Project from Datacamp.
-* [Analyzing NASA Planetary Exploration Budgets (SQL)](https://github.com/Nostrand/data-analysis-projects/blob/main/analyzing-nasa-planetary-exploration-budgets/notebook.ipynb): Exploratory analysis of NASA budgets data. Webinar from Datacamp.
-* [Case Study HR Analytics (Power BI)](https://github.com/Nostrand/data-analysis-projects/blob/main/case-study-hr-analytics-in-power-bi/case-study-hr-analytics.md): HR analytics and Dashboard design. Case study from Datacamp.
+### Project 1: Investigating Netflix Movies (Python)
+
+<img src="investigating-netflix-movies/plot.png" alt="Investigating Netflix Movies" width="600" height="400">
+
+**Description:** This project involves exploratory analysis of the duration of Netflix movies. It includes data cleaning, visualization, and analysis to gain insights into the trends in movie durations.
+
+**Notebook:** [Investigating Netflix Movies Notebook](https://github.com/Nostrand/data-analysis-projects/blob/main/investigating-netflix-movies/notebook.ipynb)
+
+
+### Project 2: Analyzing NASA Planetary Exploration Budgets (SQL)
+
+<img src="analyzing-nasa-planetary-exploration-budgets/plot2.png" alt="NASA Budget Analysis" width="600" height="400">
+
+**Description:** This project focuses on the analysis of NASA budgets data related to planetary exploration. It utilizes SQL queries to extract, transform, and analyze the budget data, providing insights into funding trends and allocation across different exploration programs.
+
+**Notebook:** [Analyzing NASA Planetary Exploration Budgets Notebook](https://github.com/Nostrand/data-analysis-projects/blob/main/analyzing-nasa-planetary-exploration-budgets/notebook.ipynb)
+
+
+### Project 3: Case Study HR Analytics (Power BI)
+
+<img src="case-study-hr-analytics-in-power-bi/images/overview.png" alt="HR Analytics Dashboard" width="600" height="400">
+
+**Description:** This case study delves into HR analytics and dashboard design. It explores a fictitious HR dataset, performs data preparation, analysis, and visualization using Power BI. The project aims to gain insights into employee metrics and provide interactive dashboards for HR decision-making.
+
+**Report:** [Case Study HR Analytics Report](https://github.com/Nostrand/data-analysis-projects/blob/main/case-study-hr-analytics-in-power-bi/case-study-hr-analytics.md)
+
