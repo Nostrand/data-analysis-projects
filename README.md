@@ -8,7 +8,7 @@ This repository serves as a collection of various small-scale data analysis proj
 
 ### Project 1: Investigating Netflix Movies (Python)
 
-<img src="investigating-netflix-movies/plot.png" alt="Investigating Netflix Movies" width="600" height="400">
+<img src="investigating-netflix-movies/images/plot.png" alt="Investigating Netflix Movies" width="600" height="400">
 
 **Description:** This project involves exploratory analysis of the duration of Netflix movies. It includes data cleaning, visualization, and analysis to gain insights into the trends in movie durations.
 
