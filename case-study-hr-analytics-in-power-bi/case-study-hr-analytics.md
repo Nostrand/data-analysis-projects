@@ -2,7 +2,7 @@
 
 ## Background
 
-Case study from Datacamp, completed in Power BI Desktop.
+[Case study from Datacamp](https://www.datacamp.com/courses/case-study-hr-analytics-in-power-bi), completed in Power BI Desktop.
 
 ## Introduction
 
@@ -11,6 +11,19 @@ HR Analytics has become increasingly essential for organizations as they strive 
 The need for HR analytics stems from several key factors. First, organizations recognize that their workforce is one of their most valuable assets. By leveraging HR analytics, they can gain a deeper understanding of their employees, identify trends, and make informed decisions to enhance productivity, engagement, and retention.
 
 Moreover, HR analytics enables organizations to align their HR practices with overall business objectives. Through the analysis of workforce data, HR professionals can identify skill gaps, assess training needs, and ensure the right talent is in place to drive organizational success.
+
+## Table of Contents
+- [Background](#background)
+- [Introduction](#introduction)
+- [Business Task and Objectives](#business-task-and-objectives)
+- [Data Sources and Model](#data-sources-and-model)
+- [Data Preparation and Transformation](#data-preparation-and-transformation)
+- [HR Analytics Dashboard](#hr-analytics-dashboard)
+  - [Overview](#overview)
+  - [Demographics](#demographics)
+  - [Performance Tracker](#performance-tracker)
+  - [Attrition](#attrition)
+- [Recommendations](#recommendations)
 
 ## Business Task and Objectives
 
@@ -103,14 +116,14 @@ Key insights from the Demographics page include:
 The interactive nature of the visualizations allows for a deeper exploration of the demographic data, enabling stakeholders to make informed decisions and gain a better understanding of the workforce composition.
 
 
-### Performancer Tracker
+### Performance Tracker
 ![Performance Tracker](images/performance-tracker.png)
 
 The Performance Tracker page provides a comprehensive view of individual employee performance within Atlas Labs. By leveraging historical job satisfaction review data, self-ratings, and manager ratings, this page enables HR professionals and managers to track and analyze employee performance over time.
 
 
-### Atrittion
-![Atrittion](images/atrittion.png)
+### Attrition
+![Attrition](images/attrition.png)
 
 This section of the dashboard aims to provide valuable insights into the factors contributing to attrition within Atlas Labs. By analyzing relevant HR data and employing effective data visualization techniques, we can gain a deeper understanding of attrition patterns, identify key drivers, and explore potential strategies to mitigate turnover.
 
