@@ -6,16 +6,16 @@
 
 ## Introduction
 
-HR Analytics has become increasingly essential for organizations as they strive to make data-driven decisions and optimize their human resources management. With the growing volume of employee data available, HR teams need a robust analytics framework to extract valuable insights and drive strategic initiatives.
+HR Analytics plays a crucial role in organizations today, empowering them to make data-driven decisions and optimize their human resources management. With the abundance of employee data available, HR teams need robust analytics frameworks to extract valuable insights and drive strategic initiatives.
 
-The need for HR analytics stems from several key factors. First, organizations recognize that their workforce is one of their most valuable assets. By leveraging HR analytics, they can gain a deeper understanding of their employees, identify trends, and make informed decisions to enhance productivity, engagement, and retention.
+By leveraging HR analytics, organizations can gain a deeper understanding of their workforce, identify trends, and make informed decisions to enhance productivity, engagement, and retention. This enables them to align their HR practices with overall business objectives, identifying skill gaps, assessing training needs, and ensuring the right talent is in place to drive organizational success.
 
-Moreover, HR analytics enables organizations to align their HR practices with overall business objectives. Through the analysis of workforce data, HR professionals can identify skill gaps, assess training needs, and ensure the right talent is in place to drive organizational success.
+In this case study, we will focus on building a comprehensive report using fictitious datasets from Atlas Labs, a Tech company. The primary goal is to monitor key employee metrics, while the secondary objective is to investigate the factors that impact employee attrition.
 
 ## Table of Contents
 - [Background](#background)
 - [Introduction](#introduction)
-- [Business Task and Objectives](#business-task-and-objectives)
+- [Project Objectives](#project-objectives)
 - [Data Sources and Model](#data-sources-and-model)
 - [Data Preparation and Transformation](#data-preparation-and-transformation)
 - [HR Analytics Dashboard](#hr-analytics-dashboard)
@@ -25,14 +25,14 @@ Moreover, HR analytics enables organizations to align their HR practices with ov
   - [Attrition](#attrition)
 - [Recommendations](#recommendations)
 
-## Business Task and Objectives
+## Project Objectives:
 
-The core goal of this case study is to build a report using fictitious datasets from a Tech company called Atlas Labs. Atlas Labs HR team want to be able to monitor key metrics on employees. Their secondary goal is to understand what factors impact employee attrition.
-
-### Tasks:
+The project encompasses various tasks that include:
 
 * Requirements gathering, connecting to data sources, data transformation, building the data model, and writing DAX measures.
-* Branding, defining the report layout, and building the report with chart visualizations.
+* Branding, defining the report layout, and building the report with chart visualizations to create an interactive and user-friendly dashboard.
+
+By combining data analysis techniques, visualizations, and the power of a dashboard, this project will deliver comprehensive insights into employee metrics and attrition factors. 
 
 ## Data Sources and Model
 In this case study, we utilized fictitious data provided by Datacamp to build a data model for HR analytics.
