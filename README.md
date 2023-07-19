@@ -32,3 +32,12 @@ This repository serves as a collection of various small-scale data analysis proj
 
 **Report:** [Case Study HR Analytics Report](https://github.com/Nostrand/data-analysis-projects/blob/main/case-study-hr-analytics-in-power-bi/case-study-hr-analytics.md)
 
+
+### Project 4: CO2 Emissions and Bicycle Market Analysis (Python & SQL)
+
+<img src="co2-emissions-and-bicycle-market-analysis/images/average-co2-emission.png" alt="Average CO2 Emissions catplot" width="600" height="400">
+
+**Description:**  This project explores CO2 emission data for Canadian vehicles and analyze a database from a chain of bicycle stores using Python and SQL. The goal is to gain insights into emission trends and bicycle market preferences.
+
+**Notebook:** [CO2 Emissions and Bicycle Market Analysis](https://github.com/Nostrand/data-analysis-projects/blob/main/co2-emissions-and-bicycle-market-analysis/co2-emissions-and-bicycle-market-analysis.ipynb)
+
