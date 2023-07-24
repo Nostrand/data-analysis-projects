@@ -41,3 +41,12 @@ This repository serves as a collection of various small-scale data analysis proj
 
 **Notebook:** [CO2 Emissions and Bicycle Market Analysis](https://github.com/Nostrand/data-analysis-projects/blob/main/co2-emissions-and-bicycle-market-analysis/co2-emissions-and-bicycle-market-analysis.ipynb)
 
+
+### Project 5: Analyzing Customer Churn (Power BI)
+
+<img src="case-study-analyzing-customer-churn/images/overview.png" alt="customer churn dashboard overview page" width="600" height="400">
+
+**Description:**  Explore the world of customer churn with our comprehensive data analysis project using Power BI. This project delves into a fictitious churn dataset from a Telecom provider called Databel, aiming to understand why customers are leaving and uncover factors influencing churn. With interactive visualizations, insightful DAX measures, and data-driven revelations, this project empowers stakeholders to make informed decisions for enhancing customer retention. Join us on this data exploration journey to gain valuable insights and drive positive changes within your organization.
+
+**Notebook:** [Analyzing Customer Churn](https://github.com/Nostrand/data-analysis-projects/blob/main/case-study-analyzing-customer-churn/case-study-analyzing-customer-churn.md)
+
