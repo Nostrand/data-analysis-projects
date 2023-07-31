@@ -4,13 +4,13 @@
 
 This repository serves as a collection of various small-scale data analysis projects. Each project focuses on distinct datasets and explores various aspects of data analysis using different tools and techniques, including the R programming language, Python, SQL and Power BI.
 
-## Included Projects
+## Projects
 
 ### Project 1: Investigating Netflix Movies
 
 <img src="investigating-netflix-movies/images/plot.png" alt="Investigating Netflix Movies" width="800">
 
-**Description:** This project involves exploratory analysis of the duration of Netflix movies. It includes data cleaning, visualization, and analysis to gain insights into the trends in movie durations.
+**Description:** This project involves exploratory analysis of the duration of Netflix movies. The goal is to perform a basic analysis to gain insights into the trends in movie durations.
 
 **Skills & Concepts:** Data Transformation, Data Visualization
 
@@ -36,7 +36,7 @@ This repository serves as a collection of various small-scale data analysis proj
 
 <img src="case-study-hr-analytics-in-power-bi/images/overview.png" alt="HR Analytics Dashboard" width="800">
 
-**Description:** This case study delves into HR analytics and dashboard design. It explores a fictitious HR dataset, performs data preparation, analysis, and visualization using Power BI. The project aims to gain insights into employee metrics and provide interactive dashboards for HR decision-making.
+**Description:** This case study delves into HR analytics and dashboard design, exploring a fictitious HR dataset. The project aims to gain insights into employee metrics and provide interactive dashboards for HR decision-making.
 
 **Skills & Concepts:** Data Transformation, DAX measures, Data Visualization, Dashboard Design
 
